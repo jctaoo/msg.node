@@ -10,5 +10,5 @@ Create message box on windows / macOS
 ```bash
 yarn install
 yarn configure && yarn build
-node ./index.js
+node ./test.js
 ```
