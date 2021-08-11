@@ -273,4 +273,7 @@ dist
 .history
 .ionide
 
+### Node Gyp ###
+build
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,jetbrains,node
