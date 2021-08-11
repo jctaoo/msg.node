@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "configure": "node-gyp configure",
+    "build": "node-gyp rebuild",
+    "clean": "node-gyp clean"
+  },
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "nan": "^2.15.0"
+  },
+  "devDependencies": {
+    "node-gyp": "^8.1.0"
+  }
+}
