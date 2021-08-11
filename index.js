@@ -1,3 +1,5 @@
 const msg = require("bindings")("msg.node");
 
-msg.messageBox("jctaoo");
+exports.messageBox = function(name) {
+    msg.messageBox(name);
+}

@@ -1,4 +1,26 @@
 {
+  "name": "msg.node",
+  "description": "Create message box on windows / macOS",
+  "version": "0.1.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jctaoo/msg.node.git"
+  },
+  "keywords": [
+    "windows",
+    "macos",
+    "node",
+    "nan",
+    "native"
+  ],
+  "author": "jctaoo <taoo.jc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jctaoo/msg.node/issues"
+  },
+  "homepage": "https://github.com/jctaoo/msg.node#readme",
   "scripts": {
     "configure": "node-gyp configure",
     "build": "node-gyp rebuild",
