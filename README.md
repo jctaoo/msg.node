@@ -47,4 +47,4 @@ And then add a new script named `postinstall` in your `package.json` just like t
 }
 ```
 
-And install `msg.node` by steps in [Installation](##Installation). 
+And install `msg.node` by steps in [Installation](#installation). 
