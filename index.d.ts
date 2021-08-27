@@ -1,1 +1,1 @@
-export function messageBox(message: string);
+export function messageBox(message: string): void;
